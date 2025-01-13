@@ -1,7 +1,7 @@
 ## Child Privacy and Safety Policy
 
 **Effective Date:** 01/01/2025
-**Last Updated:** 01/01/2026
+**Last Updated:** 01/01/2025
 
 Vijapur Para Pragati Mandal is committed to protecting the privacy and safety of children. This policy outlines how we collect, use, and safeguard personal information in compliance with applicable child privacy laws, including the **Children’s Online Privacy Protection Act (COPPA)** and Google Play’s **Families Policy Requirements**.
 
